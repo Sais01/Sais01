@@ -1,4 +1,5 @@
-<p align="left">Sou graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul e também sou técnico em Automação Industrial. Com experiência em análise e desenvolvimento de sistemas, possuo habilidades em diversas linguagens e frameworks, incluindo Python, C#, Javascript, SQL, HTML, CSS, Django e .NET. Além disso, tenho experiência em programação de microcontroladores (Arduino e Micropython) e CLPs (Ladder e ST), com destaque para aplicações voltadas à indústria 4.0. Sou um profissional apaixonado pela área e estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e contribuir para o sucesso dos projetos nos quais me envolvo.</p>
+<p align="left">Graduando em Análise e Desenvolvimento de Sistemas e técnico em Automação Industrial, com experiência em desenvolvimento de sistemas, utilizando linguagens e frameworks como Python, C#, Javascript, SQL, Django, .NET e NodeJS. Além disso, possuo experiência com projetos envolvendo IoT, Machine Learning e Cloud Computing.
+Minha paixão pela tecnologia me motiva a buscar constantemente novos conhecimentos para contribuir com sucesso em projetos desafiadores.</p>
 
 ###
 
